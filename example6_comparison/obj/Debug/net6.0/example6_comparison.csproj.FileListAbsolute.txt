@@ -1,0 +1,15 @@
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/example6_comparison.csproj.AssemblyReference.cache
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/example6_comparison.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/example6_comparison.AssemblyInfoInputs.cache
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/example6_comparison.AssemblyInfo.cs
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/example6_comparison.csproj.CoreCompileInputs.cache
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/bin/Debug/net6.0/example6_comparison
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/bin/Debug/net6.0/example6_comparison.deps.json
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/bin/Debug/net6.0/example6_comparison.runtimeconfig.json
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/bin/Debug/net6.0/example6_comparison.dll
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/bin/Debug/net6.0/example6_comparison.pdb
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/example6_comparison.dll
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/refint/example6_comparison.dll
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/example6_comparison.pdb
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/example6_comparison.genruntimeconfig.cache
+/Users/yaroslav/Desktop/GB/C#/lect1/example6_comparison/obj/Debug/net6.0/ref/example6_comparison.dll
