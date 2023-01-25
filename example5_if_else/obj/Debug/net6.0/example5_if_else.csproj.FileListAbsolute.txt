@@ -1,0 +1,15 @@
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/bin/Debug/net6.0/example5_if_else
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/bin/Debug/net6.0/example5_if_else.deps.json
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/bin/Debug/net6.0/example5_if_else.runtimeconfig.json
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/bin/Debug/net6.0/example5_if_else.dll
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/bin/Debug/net6.0/example5_if_else.pdb
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/example5_if_else.csproj.AssemblyReference.cache
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/example5_if_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/example5_if_else.AssemblyInfoInputs.cache
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/example5_if_else.AssemblyInfo.cs
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/example5_if_else.csproj.CoreCompileInputs.cache
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/example5_if_else.dll
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/refint/example5_if_else.dll
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/example5_if_else.pdb
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/example5_if_else.genruntimeconfig.cache
+/Users/yaroslav/Desktop/GB/C#/lect1/example5_if_else/obj/Debug/net6.0/ref/example5_if_else.dll
